@@ -7,10 +7,9 @@ Open a terminal and clone the repository.
 
 ## Trailer
 
-<video width="640" height="480" controls loop allowfullscreen>
-  <source src="Trailer/clean_and_code.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### <span style="color: red;">Click Image to watch youtube trailer</span>
+
+[![Game Trailer](trailer.png)](https://www.youtube.com/watch?v=mlaFB_IZQW0)
 
 
 **Requirements**

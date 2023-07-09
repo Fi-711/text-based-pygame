@@ -1,0 +1,17 @@
+index,scenario_text,notes(delete later)
+0,"Well, so far so good? If there was a save option, this would be a great time to do it. But sadly, that's not how life works! You now have 3 options to choose from before you have to go back to grading papers (ugh, boring, right?).",Between grade students 1 and room picking
+1,"[player], you might be in deep s***. You've been acting rather suspicious and the head of school has taken notice. They've called you to their office to discuss a few things, but you have a feeling it won't go well. Normally you'd go back to the staff room and pretend to be working, guess life has other plans at the moment... Maybe it has something to do with the safe earlier?",Between grade students 1 and meet the boss
+2,"Now that you're done with whatever thing happened in the other room, let's move on to grading again, shall we? ",Between rooms and grade students 2 - this is second grade students but doesn't make much sense?
+3,"Whew, you're almost finished with the year, it's a miracle that you haven't been discovered yet! Well don't let your guard down, there's still more events coming!",Grade Students 2 to Room Picking 2
+4,"What the hell? Do you not get the purpose of this game? You're supposed to try to keep your job, not try to sabotage it?!
+
+Because of all your suspicious behaviour, the head of school discovered that you're a fraud, and hired the janitor who was supposed to have your (well, it was theirs at first) job. You ran away from Cardiff before the police can catch you, but you know it's only a matter of time before they drag you to jail for fraud. 
+
+This is game over. Feel free to start again though!",Game over (js_score too low)
+5,"So there are three options you can choose from after you finish grading papers.
+
+1. Lecture room - where you'll see scenarios involving you and other students before, during or after a lecture. You may also encounter lecturers from other schools!
+
+2. Workshop - where you'll see scenarios involving you and other students (as the same as lecture room). However, you may face scenarios where you have to help students with coding, or messy situations involving students!
+
+3. Staff room - where you'll see scenarios involving yourself and other members of staff. Lots of random s*** goes down in here so you've been warned!","Right after grading, explain in blur three options"

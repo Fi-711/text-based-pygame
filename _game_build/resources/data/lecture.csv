@@ -1,0 +1,22 @@
+index,scenario_text,choice_1,choice_2,choice_3,points_choice_1,points_choice_2,points_choice_3,outcome_choice_1,outcome_choice_2,outcome_choice_3,js_points_choice_1,js_points_choice_2,js_points_choice_3
+0,"You've just finished a lecture. A student approaches you 
+and asks:
+
+""Hello [player], I was just wondering if I can collect some notes 
+from the last 2 weeks? I've been really ill and I only just 
+started recovering...""","Tell them to ""man up"" and eat raw garlic to cure sickness",Give them the notes and wish them well,Make up some crappy excuse about needing the bathroom,-10,20,-5,"The student is annoyed, and they say:
+
+""Screw you, I'll go ask someone else""","The student looks relaxed upon hearing you say you'd give them the notes.
+
+""Thanks for the help, have a good day!""","You ran away before the student could say anything else. They were very obviously annoyed with you, guess you'll have to wait for a condescending email in your mailbox now.",-20,40,-10
+1,"You're in a lecture and someone decided to throw a frisbee 
+around the lecture hall. So far the students have only thrown it 
+at each other, but someone decides to throw it at you! ",Catch it and throw it in the bin,Catch it and throw it back to someone else,Not do anything and let it hit your head,-5,30,15,"The students are disappointed, and wants you to pay them back for the frisbee you threw in the bin.","The students respect you for letting them have their fun, but still knowing when to be serious about work","The student who threw the frisbee at you feels bad, but that's about it.",-5,20,0
+2,"You're 15 minutes early for your lecture. Whilst you were 
+preparing your slides for the lecture ahead, another lecturer 
+from the business school walked into the lecture hall. You're both 
+confused about what's going on, and decided to check the lecture 
+hall schedule. Turns out, both of your lectures are scheduled to 
+start at the same time in the same hall. Neither of you want to 
+change lecture halls last minute. What do you do?",Call security and claim they're pretending to be a member of staff,Bribe them with cake,Concede defeat and move to another lecture hall,-20,0,10,"That didn't work of course, they had a staff ID card! The security personnel went off on you for abusing the security system, and the news of this spread to your colleagues. It's very obvious that it did because when you walk into the staff room, everyone stops talking and stares at you.","You didn't know this at the time, but they're a huge foodie and was quite happy with the exchange of cake for the lecture hall. You also helped him notify the business students that their lecture has been moved to another room.","Well, no one turned up. You forgot to tell the students! Most of them just sat through the accounting lecture and pretended that they understood what the other lecturer was saying.",-20,0,-10
+3,"You're in the middle of a lecture, as you were about to repeat what was written on the slides (because you have no idea what you're actually talking about), you hear loud music in some foreign language that you do not understand. Korean, perhaps? A bunch of people run to the centre of the lecture hall and starts performing a choreographed dance. Maybe this is some sort of flash mob. What do you do about it?",Try to kick them out,Sit in your chair and wait for them to finish,Awkwardly dance along to the music,-20,0,30,"There's 50 people in the flash mob, even if you tried, you wouldn't be able to! You trip over some stairs and get lightly trampled by the dancers. Some of the dancers trip over you and fall down the stairs. Your boss isn't happy with you (even though you were hurt too).","Nothing happens. People forget that there was a lecture in the first place and your lecture ends early. But hey, at least you get to start watching that show you've been wanting to watch!",A student of yours filmed your awkward dancing and it became viral within the student population. Your colleagues see it and find it funny. Your relationship with colleagues and students improve (for being chill about being a meme).,-20,0,15

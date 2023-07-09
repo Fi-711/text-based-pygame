@@ -1,0 +1,121 @@
+bio_text,late,late_time,excuse,fail_possibility
+"You remember reading [name]'s application. [name] has been performing
+consistently throughout all their years in school and sixth form achieving 4A*s. 
+[name] enjoys lots of extra-curricular activities, such as tennis, volleyball, 
+playing chess, and rubbish collecting on the streets in their spare time. 
+
+According to your colleagues, they are very enthusiastic in class. ",0,,,1
+"You hear [name]'s name a lot in the hallways when you go for your daily crawl to the staff room for your morning coffee. They made a game which featured cameos from other people in the university. You've played the game yourself, but you don't see the appeal yourself.
+
+Probably because the player in the game they made is in the same situation as yourself…
+
+You are their personal tutor, and they have expressed concerns over whether or not they should drop out to try to start their game development career early and to use their game as part of their portfolio for interviews. They seem to be a very strong coder.
+
+
+",0,,,2
+"You haven't heard anything about [name]. You've never seen them in class, 
+online lessons or received any emails from them. All you know about is their 
+name. Their application had no personal statement or any educational 
+achievements. How on earth did they even get into the university? Maybe 
+they hacked the university's system, server, whatever. 
+
+Hmm, maybe they're the one who screwed around with the application files 
+and got me hired? I've got to thank them if that's true...",1,2 seconds,"I would like to apply for extenuating circumstances because I 
+didn't sleep for a whole week. I was writing a ransomware for a 
+friend. I think I drank like 30 monsters during the entire thing and 
+I just woke up in the hospital from my body essentially crashing. 
+Worth it though",0
+"[name] is the president of the university's computer science society, CyberSoc. 
+They have been working alongside your colleagues for years. In their first year,
+they were one of the Cardiff-based student reps. They've devoted a lot of time 
+and effort to try to improve everyone's experience whilst studying at this 
+university.
+
+They are hard working, enthusiatic and your typical teacher's pet. You're sure they'll pass but do you want them to?
+
+The length of the program they handed in seems twice as long as the others, good thing you're not going to read it!",0,,,0
+"[name] loves to travel. They spend more than half of their time at uni off 
+campus. They like to post pictures of themselves at landmarks of each city or 
+town they visit. Even with all this time off, they still managed to pass all of 
+year 1's modules.
+
+Bloody hell. If only you had that much time and money too. They will probably pass but they were late with their submission...",1,1 day,"I'm sorry [player], my flight was delayed because someone 
+refused to wear a mask (they were drunk) and before they got 
+arrested, they decided to throw up all over the plane and made it a 
+biohazard risk so they had to find us another plane and we were 
+delayed by a day ",2
+"You wouldn't mind if [name] tried to bribe you with food. You've seen the food 
+they bring along with them to eat in between 3 hour lectures. Everything they 
+make looks like it came out of a Michelin Star Restaurant, even snacks. 
+You've heard your colleagues mention that they were offering to 
+teach other students how to cook. They seem a decent coder but that food...",0,,,3
+"[name] is your typical weeaboo (a person who's overly obsessed with Japan 
+and Japanese culture). They like to run into your lectures with a piece of toast in 
+their mouth. Sometimes, when someone answers your questions correctly, 
+they'd yell out a completely butchered phrase in Japanese.",1,4 days,"Gomenasai, I spent my weekend trying to get this person (who's 
+super kawaii btw) to become my waifu. They were being 
+a complete tsundere though??? [player] Sensei, I hope you don't mind me 
+handing my work late, nya? (Side note from writer: I'm so sorry even 
+writing this made me cringe)",10
+"[name] likes to complain about anything and everything. It is impossible to do 
+anything right in their eyes. You remember walking past them on your way to 
+Queen's Building, and [name] was crying about someone accidentally upgrading 
+their drink. Another incident you've witnessed was during computer labs, 
+where they were complaining to their friends about the university network being 
+1Kbps slower than their home network.",0,,,9
+"[name] can be described as someone who is Chaotic Good. They enjoy pulling 
+pranks on people who deserve it. They're also the type of person to put every 
+single topping in their frozen yoghurt because it's free. When they complete work
+for assignments, they always complete the work to a certain degree, but there's 
+always something else to it. For example, the other week you received work from 
+them, which included a photo of them chugging beer for a drinking competition(?).",0,,,5
+"[name] is well known on campus for performing music. On their spare time, they 
+like to visit different campuses and university buildings and play music for students 
+and staff as they're walking in for lectures and work. A lot of people consider it a 
+highlight of their day, especially when they make up lyrics on the spot about 
+whoever passes them by. They've spent most of their years learning as many 
+instruments as they can.But with so much ime on music their coding has suffered...",1,2 days,"Hello [player], I've been spending the past week trying to compose 
+and mix a song for this famous person on Soundcloud, it's no 
+excuse but I just thought I should let you know.",8
+"[name] spends most of their nights partying in whatever venue they can find. You 
+can always tell if they've been out the night before, because they don't turn up. On 
+the rare occasion that they do attend your lectures, they always stumble in with a 
+protein shaker bottle full of hangover cure, and a pair of sunglasses on their face. 
+Somehow, they always manage to hand in their work on time. 
+
+When they slowly regain sobriety during your lectures, you often overhear them 
+talking about things that happened the night prior. For example, they recently said 
+something about a ceramic kitchen hob being broken in someone's flat because 
+someone decided to dance on it.",0,,,9
+"[name] is a very unlucky person. Something bad always happens to them, no 
+matter how much they try to avoid it. One time, they walked in smelling like vomit. 
+When you asked what happened, they told you a cat decided to climb on their 
+shoulder and throw up a hairball inside their hoodie. 
+
+You've started noticing that they don't attend any lectures that lies on the 13th day 
+of each month. Guess when you're unlucky, you start to believe in superstitions 
+like that.",1,1 week,"[player], I was working on my assignment whilst drinking some 
+soup for dinner. My flatmate decided to throw rocks at my window 
+because they were locked out and I panicked, thinking it was 
+someone trying to steal from me. I've only just finished working on 
+my assignment because I wrecked the motherboard from spilling 
+soup all over my laptop and had to start over.",9
+"[name] goes to every lecture that you hold, but only ever for 15 minutes, after 
+which they disappear. You've mentioned this to the other staff, but no one seems 
+to know who [name] is. They are on the list of students on your module, but it 
+doesn't look like they study anyone else's. 
+
+The weirdest part about [name] is how they disappear from lectures. It's almost 
+like they vanish in front of your eyes. You've tried counting the minutes and looking 
+at them when the time's up, and they just disappear into thin air. You're starting to 
+worry if you've gone mad or not.",0,,,8
+"[name] is an avid gamer. They spend lots of time and effort in playing games, with 
+the dreams of completing every game until they receive all the achievements. 
+They recently got a job at the local GAME to fund their large library of games. 
+
+They also spend a lot of time streaming on Twitch. A lot of their clips have gone 
+viral, especially the ones where they rage quit from not meeting a time target for 
+speed runs of retro games, such as DOOM, Super Mario 64 and Ocarina of Time. However, they seem to be extremely lazy and the quality of their work is always sub par.",0,,,8
+"[name] doesn't believe in science, yet they chose to study compsci anyway. They believe that vaccines were created as a form of mind control along with 5G towers. They also think that COVID-19 is a hoax and that it was planned by governments around the world as an experiment to see how well they can control their citizens to conform to rules about masks and staying at home. They are mainly studying compsci because they want to know how exactly Bill Gates is planning to control people's minds, and they want to find a way to reverse it when Bill Gates unleashes his fury on the sheeples around the world.",1,1 day,"Sorry [player], I got too invested in this article I was reading about how there's aborted foetuses in vaccines and how 5G towers emit some sort of radiation that's giving everyone cancer so big pharma can profit.",9
+[name] is an inspiring app developer and claims to be a self-made entrepreneur /trader and says he's going to be a millionaire by 23 except only ever making 29p on trading sites. He's always trying to pitch ideas to other students to get them on board and one time even tried to get you on board while you were on your lunch break. Not cool. ,0,,,2
+"[name] is a person of few words they tend to blend into the crowd at your lectures and honestly you were surprised when you read their name on an assignment thinking to yourself, I don't recognize this person at all, you shrug it off, but you always have that gnawing feeling that you can never pick them out in your lectures.",0,,,3

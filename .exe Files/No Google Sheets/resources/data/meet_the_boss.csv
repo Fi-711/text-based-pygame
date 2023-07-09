@@ -1,0 +1,26 @@
+index,scenario_text,choice_1,choice_2,choice_3,points_choice_1,points_choice_2,points_choice_3,outcome_choice_1,outcome_choice_2,outcome_choice_3,js_points_choice_1,js_points_choice_2,js_points_choice_3
+0,"So far, almost everything you've marked has been marked incorrectly. Students who should've gotten a pass grade received fails from you. The head of school, Stuart Allen, decided that it's time that the two of you had a meeting to see what the hell was going on with you.
+
+""Hello [player], I hope your day's been well. I know mine certainly hasn't been! I've been receiving so many angry emails from students and staff about your incompetency at simply even grading work! Are you sure you're ready for this job? Your CV says you've had 8 years of experience teaching in the past, I don't know why you're so incompetent here!""
+
+Silence ensues, and you need to say something to break the tension. 
+
+","Look up what ""incompetence"" means on your phone","Tell him you're sorry, and lie about how there's problems at home","""no u""",-50,30,-20,"He's annoyed at you for ignoring him, and he grabs your phone and reads what you've been typing into Google.
+
+""Are you f***ing kidding me? Get out of my office now before I fire you!""","He seems sympathetic, and says:
+
+""I'm sorry [player], we've all been there before but please try to stay focused on work as well. I will let you off for now but if this happens again I'm afraid I'll have to talk to you again about your future here.""","He thinks you're being immature, and kicks you out of his office before any more damage can be done (by you, really).",-30,10,0
+1,"The semester's about to finish. You haven't received a lot of complaints or grievances from others. Your colleagues think you've got good judgement (occasionally anyway). You've been called to the head of school's office.
+
+""Hello [player]. I see you've been doing well this semester. I just wanted to check up on you to see how you were doing with work and everything. Anything I should know about?""",Lie and tell him that helping the uni develop a new learning central,Tell him that your job application got mixed up with someone else's ,"""Nothing really, I just do what I'm required to do.""",50,20,-10,"He seems delighted, and agrees with you that learning central is rather confusing to use sometimes. 
+
+""Well, I'm glad it's not just me who thinks it's unusable. I'd be happy to help if you run into any troubles!""","He looks at you suspiciously, then breaks out into a fit of laughter. He thinks it's a joke and dismisses you from his office. Lucky break for you...","He doesn't look disappointed, but he doesn't look like he was impressed by your response either. 
+
+""Right, uh, off you go then.""",20,0,-5
+2,"Your performance hasn't improved since the last time you met with your boss. You're on very thin ice now and he's requesting for another meeting with you.
+
+""[player]. I thought you understood that it wasn't acceptable for you to slack off, or are you just bad at teaching? Is that why you lied about terminating your contract with that other university? I know that's what it officially says on your CV and on their records but I am almost certain that you were fired and they helped you cover it up so you could get a job elsewhere!""
+
+What do you tell him?",Walk out and say nothing,"Guilt trip them: ""My partner's father got cancer...""",Throw the sandwich you were supposed to eat for lunch at your boss,-40,10,0,"Well, that was rude of you. 
+
+You get the feeling that you should watch your back, and that someone is out to get you.","""Damn [player], you really do have a lot going on in your life. I hope you're not lying, lying about your father-in-law like that is something that would make anyone lose their trust over you.""","He looks extremely confused, and you walk out of the room as you hear him say thanks for the sandwich.",-30,-10,0

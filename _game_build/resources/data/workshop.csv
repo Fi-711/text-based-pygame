@@ -1,0 +1,28 @@
+index,scenario_text,choice_1,choice_2,choice_3,points_choice_1,points_choice_2,points_choice_3,outcome_choice_1,outcome_choice_2,outcome_choice_3,js_points_choice_1,js_points_choice_2,js_points_choice_3
+0,"You've just walked into the computer lab to prepare for the 
+upcoming labs. Right as you're about to start, your partner 
+phones you, but you forgot to put your phone on silent. Everyone,
+including the teaching assistants, heard your ringtone,
+ ""WAP"" by Cardi B and Megan Thee Stallion. ",Pretend it's not your phone and wait for the call to get cut off automatically,Frantically try to switch your phone off before anyone notices,"Blame it on your kids, even though you don't have any",10,-20,20,"The entire room goes quiet, with some people silently chuckling at the explicit lyrics of the song.","The students know that you're the one with the ringtone. They tease you about it for weeks until you got annoyed and snapped at them. You've lost your dignity, and some students bear a grudge on you for snapping at them.",The excuse seems to have worked. Everyone laughed about it for a bit and moved on with their lives.,0,-20,0
+1,"You're in a lab session. You see that someone has their hands up, 
+wanting to ask a question. All the other TA's are busy. You can try 
+to help with whatever basic knowledge you have but it would be 
+risky, as you know almost nothing about programming.",Try to help,Pretend you're looking at something on your monitor,Sit at your desk and wait for a TA to help the student,30,-30,-10,"Turns out, the student just forgot how to write print statements. That's simple enough. You gained respect for being able to help someone.","The student just thought that you were busy and waited for a TA to help, guess everything's all good then.",The student is annoyed at you for not being willing to help. They lost respect for you.,40,-10,-10
+2,"In the computer labs, students are not permitted to bring any 
+drinks other than water in a closed container. A group of students 
+decided to bring in various drinks from Starbucks and they're 
+drinking them with the lids off. What do you do?",Say nothing,Ask them to drink it outside,Grab their drinks and chuck it out the window,0,20,-40,"Oh dear, somehow they all managed to spill their drinks and destroyed some of the equipment in the lab.",They understood your reasoning and drank their drinks outside.,"Why on earth would you do that? Not only are the students annoyed that you threw out their drink, you also managed to drench some random person with an iced Frappuccino. But hey, at least it wasn't hot, would've been way worse.",-20,40,-50
+3,"You're just about to walk into the lab for a lab session when you 
+hear two people arguing.
+
+""HOW COULD YOU DO THIS, THIS IS OUR BABY! YOU CAN'T 
+JUST ABANDON IT LIKE THAT!""
+
+""WELL I'VE GOT OTHER THINGS TO DO NOW, IT ISN'T 
+A PRIORITY FOR ME ANYMORE!""
+
+Well uh... what do you do now? You gotta start preparing 
+your labs, but it seems awkward to cut their 
+conversation short...",Send a quick email to your students to notify them of a room change,Skip the lab and head back to the office for a much needed shot of vodka,Intervene and try to console them both,30,-20,50,"Nice one! 50% of the students turned up to your lab (typical, really) but some students in other modules were annoyed because they wanted to work on their coursework in the room you took over.","A student sent you an email asking why you didn't turn up to the labs. Well, one shot of vodka slowly turned into half a litre, and you ended up writing a drunk email back to the student.
+
+""Im not hEre, doN't lo0k 4 mEeeeeeeeee""","Turns out, they were arguing about a project that they started for a game with lots of dark humour. They apologised for using the room to argue and leaves before any other students could overhear the conversation.",20,-50,5

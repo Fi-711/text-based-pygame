@@ -1,0 +1,37 @@
+index,scenario_text,choice_1,choice_2,choice_3,points_choice_1,points_choice_2,points_choice_3,outcome_choice_1,outcome_choice_2,outcome_choice_3,js_points_choice_1,js_points_choice_2,js_points_choice_3
+0,"Today is your colleague Russell's birthday. As per tradition, 
+everyone has to pitch in a small amount of money to buy a cake 
+for Russell (which really just means the entire staff room). 
+
+How much money are you going to contribute?",Give nothing,Give £2,Give £50 (the entire amount needed for the cake),-20,20,50,"What a cheapskate, it's not even a lot of money! Your colleagues are silently judging you.",That's what most people in the office is giving. The main organiser thanks you and leaves.,"Every one is extremely grateful for your generosity, but you are getting a feeling like your colleagues expect you to do the same for them when it comes to their birthdays. Partner's not going to be happy about all that money lost for cakes.",-20,0,30
+1,"You just came back from lectures, and you feel extremely hungry. 
+When you look in the fridge for the lunch you packed yesterday, 
+it's missing. You can't go on for the rest of the day without food! 
+What are you going to do now?",Steal someone else's food in the fridge,Invite a colleague to go have lunch with you elsewhere,Buy a sandwich from the cafeteria ,-30,20,10,Your colleague catches you in the act! You awkwardly shuffle away and head to the cafeteria for a sandwich. Your colleague tells everyone about what you did.,You end up having a great lunch (way better food than what you would've had anyway). Your relationship with your colleagues improve.,Sandwich was fine. Nothing special really.,-30,20,0
+2,"Ah, how you crave a good cup of tea right now. You brought 
+some chocolate digestives from home to go along with your 
+after-lecture tea. You take the milk out from the fridge and you 
+grab the teabag from your secret stash. As you were about to 
+pour the hot water from the kettle into your Sports Direct mug 
+(with a teabag in it, of course), you notice that the water is only 
+lukewarm. The kettle must've broken in the midst of the 
+water being boiled.
+
+Well, you've broken it, what do you do now?",Claim that it was already broken when you tried to use it,"Say nothing, and leave it broken in the staff room","Bear with it and drink your disgusting, barely warm tea",-5,10,-20,"Your colleagues don't believe you, but can't really disprove it either. The resource manager replaces the kettle with some of this year's budget.","Everyone is suspicious of each other, but because no one's said anything, the only thing they can do is replace the kettle with a new one.","One of your colleagues walk in as you were about to leave, and asks if there's any hot water left in the kettle. You panic and run. Your colleagues now think you're selfish for breaking the kettle and not saying anything, they also think you're weird for drinking tea that's obviously not prepared right.",-5,0,-20
+3,"You've got a two hour break from lectures and workshops. You walk to your desk, sit on your comfy gaming chair and start to wonder what you can do for the next two hours. Maybe play some League? No, you'd get too salty for the next lecture. That wouldn't end well. Or maybe take a walk in the park? That'd be...
+
+F***! THERE'S A GIGANTIC SPIDER ON YOUR KEYBOARD! You suppress a scream and try not to panic. What do you do now?",Capture it with a plastic cup and a piece of cardboard,Grab the nearest book and slam it on the spider,"Throw the spider out the window, and run away for a walk",20,-10,0,"Your colleague notices the spider in the cup, and looks extremely delighted.
+
+""[player]! Thanks for capturing Muffet for me! I brought her to work with me because she seemed a bit ill but she disappeared from her terrarium whilst I was helping a student out.""
+
+As you try to pretend like you're not scared out of your f***ing mind, you smile and assure your colleague that it was alright.","You slam the spider with your 'Coding for Dummies' book. This attracted the attention of many of your colleagues, and one of them looks extremely angry. 
+
+""[player], you just killed Muffet! How could you, I've been taking care of her for 6 years now!""
+
+You feel horrible about what you've done, and your colleague is now avoiding you whenever they notice you're in the office.","At least you don't have to deal with that anymore, but why was there a huge spider just walking around the office? That was weird.
+
+When you come back to the office from your walk, your colleague approaches you and asks:
+
+""Hey [player] have you seen my spider, Muffet?""
+
+Oh s***.",40,-30,0
